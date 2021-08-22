@@ -10,4 +10,4 @@
 
 -> POSTMAN collection: https://www.getpostman.com/collections/6f44c2b2e5c7a5ef22c3
 
--> users are for signup can not be created as authentication was also the part of the task
+-> users are for signup, can not be created by another user as authentication was also the part of the task
